@@ -13,8 +13,9 @@
     --button-active-background-color: var(--lumina-active) !important;
     --in-content-button-background-hover: var(--lumina-hover) !important;
     --in-content-button-background-active: var(--lumina-active) !important;
-
+    
     /* Primary button colors */
+    --button-text-color-primary: var(--lumina-text) !important;
     --in-content-primary-button-text-color: var(--lumina-text) !important;
     --in-content-primary-button-background: var(--lumina-accent) !important;
     --in-content-primary-button-background-hover: var(--lumina-accent-light) !important;
